@@ -9,5 +9,6 @@ export const Form = styled(FormikForm)`
   border: solid 1px;
   padding: 10px;
   gap: 10px;
+
   margin: 10px;
 `;
