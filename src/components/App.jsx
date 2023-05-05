@@ -17,7 +17,7 @@ export class App extends Component {
         contacts: JSON.parse(savedContacts),
       });
     } else {
-      this.state({
+      this.setState({
         contacts: [],
       });
     }
